@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -50,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1407-top-travellers](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1407-top-travellers) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
