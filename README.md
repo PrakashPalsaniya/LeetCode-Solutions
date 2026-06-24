@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [1407-top-travellers](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
