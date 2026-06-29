@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
