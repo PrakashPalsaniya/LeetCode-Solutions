@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0074-search-a-2d-matrix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
