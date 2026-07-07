@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0846-hand-of-straights](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
