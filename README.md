@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
