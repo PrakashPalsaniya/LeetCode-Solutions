@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/PrakashPalsaniya/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
